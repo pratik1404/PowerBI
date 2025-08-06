@@ -15,3 +15,8 @@ This is **not a polished project portfolio** – it’s my personal space for:
 - Tracking my day-to-day progress 📅
 
 Basically, if I’m learning it — it’s going in here!
+
+
+## What I have covered till now ..
+- PowerBi understanding
+- Data Visualization in PowerBi
