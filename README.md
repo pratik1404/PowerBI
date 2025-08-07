@@ -19,4 +19,4 @@ Basically, if I’m learning it — it’s going in here!
 
 ## What I have covered till now ..
 - PowerBi understanding
-- Data Visualization in PowerBi
+- Data Visualization in PowerBi.
