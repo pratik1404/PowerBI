@@ -20,3 +20,14 @@ Basically, if I’m learning it — it’s going in here!
 ## What I have covered till now ..
 - PowerBi understanding
 - Data Visualization in PowerBi.
+- Dax
+- Power-Query Editor
+
+## What Extra is Covered
+- Snowflake
+- AWS
+
+
+## Project Link
+
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjNhODIwZmItMDcyZi00ZTkyLTlhYWQtMDNhYTc2NTAzMDY2IiwidCI6IjkxYzc0YTVjLTFkOTgtNDI1Yy1iN2I4LWZhNGU5MDk4Y2Q2NSJ9 "Click to see dashboard")
