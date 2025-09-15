@@ -28,7 +28,11 @@ Basically, if I’m learning it — it’s going in here!
 - AWS
 
 
-## Project Link
 
-[![Dashboard Preview](path/to/dashboard-screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiMjNhODIwZmItMDcyZi00ZTkyLTlhYWQtMDNhYTc2NTAzMDY2IiwidCI6IjkxYzc0YTVjLTFkOTgtNDI1Yy1iN2I4LWZhNGU5MDk4Y2Q2NSJ9)
+## Project Link 
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjNhODIwZmItMDcyZi00ZTkyLTlhYWQtMDNhYTc2NTAzMDY2IiwidCI6IjkxYzc0YTVjLTFkOTgtNDI1Yy1iN2I4LWZhNGU5MDk4Y2Q2NSJ9 "Click to see dashboard")
 
+**Tech stack used in this**
+- PowerBI
+- AWS
+- Snowflake
